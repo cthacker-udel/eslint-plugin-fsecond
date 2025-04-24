@@ -42,23 +42,23 @@
     "node": ">=16"
   },
   "dependencies": {
-    "@typescript-eslint/parser": "^6.2.0",
-    "@typescript-eslint/utils": "^6.0.0",
-    "minimatch": "^9.0.4",
+    "@typescript-eslint/parser": "^8.31.0",
+    "@typescript-eslint/utils": "^8.31.0",
+    "minimatch": "^10.0.1",
     "read-package-up": "^11.0.0"
   },
   "devDependencies": {
-    "@types/node": "^20.4.2",
-    "eslint": "^8.46.0",
-    "eslint-config-sheriff": "^14.2.0",
-    "eslint-define-config": "^1.22.0",
-    "eslint-plugin-eslint-plugin": "^5.1.1",
-    "prettier": "^3.0.1",
-    "rimraf": "^5.0.1",
-    "semantic-release": "^22.0.5",
-    "typescript": "^5.4.5",
-    "unbuild": "^2.0.0",
-    "vitest": "^0.33.0"
+    "@types/node": "^22.14.1",
+    "eslint": "^9.25.1",
+    "eslint-config-sheriff": "^27.1.0",
+    "eslint-define-config": "^2.1.0",
+    "eslint-plugin-eslint-plugin": "^6.4.0",
+    "prettier": "3.5.3",
+    "rimraf": "^6.0.1",
+    "semantic-release": "^24.2.3",
+    "typescript": "5.8.3",
+    "unbuild": "^3.5.0",
+    "vitest": "^3.1.2"
   },
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
